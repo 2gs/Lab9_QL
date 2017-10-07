@@ -1,0 +1,7 @@
+c:\users\ernes\source\repos\LabNumber9\LabNumber9\bin\Debug\LabNumber9.exe.config
+c:\users\ernes\source\repos\LabNumber9\LabNumber9\bin\Debug\LabNumber9.exe
+c:\users\ernes\source\repos\LabNumber9\LabNumber9\bin\Debug\LabNumber9.pdb
+c:\users\ernes\source\repos\LabNumber9\LabNumber9\obj\Debug\LabNumber9.csprojResolveAssemblyReference.cache
+c:\users\ernes\source\repos\LabNumber9\LabNumber9\obj\Debug\LabNumber9.csproj.CoreCompileInputs.cache
+c:\users\ernes\source\repos\LabNumber9\LabNumber9\obj\Debug\LabNumber9.exe
+c:\users\ernes\source\repos\LabNumber9\LabNumber9\obj\Debug\LabNumber9.pdb
